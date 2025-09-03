@@ -1,0 +1,15 @@
+import { FC } from 'react';
+import { Header } from './components/Header';
+import { List } from './components/List';
+import { Paragraph } from './components/Paragraph';
+import { Image } from './components/Image';
+import { Delimiter } from './components/Delimiter';
+import { Code } from './components/Code';
+import { RawTool } from './components/RawTool';
+import { Quote } from './components/Quote';
+import { Table } from './components/Table';
+import './generalStyles.css';
+import { IParser } from './types/ParserData';
+import { DATA_KEY } from './utils/componentKeys';
+declare const Parser: FC<Record<typeof DATA_KEY, IParser>>;
+export { Parser, Header, List, Paragraph, Image, Delimiter, Code, RawTool, Quote, Table, };

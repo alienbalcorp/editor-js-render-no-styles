@@ -1,0 +1,11 @@
+export declare const HEADER_KEY = "header";
+export declare const PARAGRAPH_KEY = "paragraph";
+export declare const LIST_KEY = "list";
+export declare const DELIMITER_KEY = "delimiter";
+export declare const IMAGE_KEY = "image";
+export declare const CODE_KEY = "code";
+export declare const RAW_TOOL_KEY = "rawTool";
+export declare const QUOTE_KEY = "quote";
+export declare const TABLE_KEY = "table";
+export declare const DATA_KEY = "data";
+export declare const ERROR_KEY = "error";

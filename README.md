@@ -1,4 +1,7 @@
-# @alkhipce/editorjs-react
+This package is a fork of @alkhipce/editorjs-react
+Original author: Alkhipce
+Licensed under MIT License.
+@alkhipce/editorjs-react
 
 [![](https://flat.badgen.net/npm/v/@alkhipce/editorjs-react?icon=npm)](https://www.npmjs.com/package/@alkhipce/editorjs-react)
 [![](https://flat.badgen.net/github/stars/etozhealkhipce/editorjs-react)](https://github.com/etozhealkhipce/editorjs-react)

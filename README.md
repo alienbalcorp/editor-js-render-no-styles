@@ -1,7 +1,4 @@
-This package is a fork of @alkhipce/editorjs-react
-Original author: Alkhipce
-Licensed under MIT License.
-@alkhipce/editorjs-react
+This package is a fork of @alkhipce/editorjs-react. Original author: Alkhipce. Licensed under MIT License. @alkhipce/editorjs-react
 
 [![](https://flat.badgen.net/npm/v/@alkhipce/editorjs-react?icon=npm)](https://www.npmjs.com/package/@alkhipce/editorjs-react)
 [![](https://flat.badgen.net/github/stars/etozhealkhipce/editorjs-react)](https://github.com/etozhealkhipce/editorjs-react)
@@ -14,14 +11,14 @@ Licensed under MIT License.
 ## Installation
 
 ```shell
-npm i @alkhipce/editorjs-react
+npm i @alienbalcorp/editor-js-render-no-styles
 ```
 
 ## Usage
 
 ```javascript
 // import Parser component or import certain component like this (available components list below)
-import { Parser, Table } from '@alkhipce/editorjs-react';
+import { Parser, Table } from '@alienbalcorp/editor-js-render-no-styles';
 
 const App = () => {
   return (

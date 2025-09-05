@@ -229,9 +229,6 @@ var Table = function Table(_ref) {
   }))));
 };
 
-var css_248z$9 = "";
-styleInject(css_248z$9);
-
 var HEADER_KEY = 'header';
 var PARAGRAPH_KEY = 'paragraph';
 var LIST_KEY = 'list';

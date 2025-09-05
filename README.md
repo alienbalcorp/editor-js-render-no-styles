@@ -4,9 +4,13 @@ This package is a fork of @alkhipce/editorjs-react. Original author: Alkhipce. L
 [![](https://flat.badgen.net/github/stars/etozhealkhipce/editorjs-react)](https://github.com/etozhealkhipce/editorjs-react)
 [![](https://flat.badgen.net/badge/demo/site/green)](https://editorjs-react.vercel.app/)
 
-## Demo
+## What is this?
+#### The General Styles.css file has been removed from this package, including all imports for that file.
+#### If we prefer to use your own styles and General Styles.css breaks your own styles, install this version (based on the original package).
 
 #### https://editorjs-react.vercel.app/
+
+## Demo
 
 ## Installation
 
